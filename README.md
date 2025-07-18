@@ -14,7 +14,7 @@
 
 ### 🤝 Project Overview
 
-This project was conducted as a **team collaboration** with 4 members, based on real behavioral data from a job platform (provided by a company during an industry-academic collaboration).  
+This project was conducted as a **team collaboration** with 4 members, based on real behavioral data from a job platform.  
 We analyzed the user journey through the application funnel, identified key drop-off points, and proposed stage-specific solutions to increase completion rates.
 
 - `job_platform_funnel_analysis.ipynb`: collaborative notebook that summarizes the team’s end-to-end funnel analysis.
